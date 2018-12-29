@@ -1,0 +1,12 @@
+{
+	"name": "warengo/rss",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Warengo\\RSS\\": ["src/"]
+		}
+	},
+	"require": {
+		"suin/php-rss-writer": "^1.6"
+	}
+}
